@@ -18,9 +18,7 @@ namespace DemoQaWebsiteTests
         [SetUp]
         public void Setup()
         {
-            //
-            //
-            //
+           
 
             //setup for DemoQa website tests
 
@@ -132,11 +130,8 @@ namespace DemoQaWebsiteTests
         [Test]
         public void draggableTests1()
         {
-             //
-             //
-             //
-             //
-             //
+           
+
 
             driverDemoQa.Navigate().GoToUrl("http://www.demoqa.com/dragabble");
 
